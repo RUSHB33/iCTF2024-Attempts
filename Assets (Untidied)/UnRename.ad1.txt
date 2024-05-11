@@ -1,0 +1,31 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 2
+Evidence Number: FSEC-SS 02
+Unique Description: UnRename Challenge
+Examiner: Chai Cheng Xun
+Notes: heeheeheehar
+
+--------------------------------------------------------------
+
+Information for C:\Users\heehe\Desktop\UnRename\UnRename.ad1:
+[Custom Content Sources]
+ \\.\PHYSICALDRIVE0:Basic data partition (3) [75906MB]:NONAME [NTFS]|[root]|$Extend|$UsnJrnl|*(Wildcard,Consider Case,Include Subdirectories)
+ \\.\PHYSICALDRIVE0:Basic data partition (3) [75906MB]:NONAME [NTFS]|[root]|Users|heehe|Desktop|UnRename|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    b351f07f8bb6a0a0457c50e586d9205a
+ SHA1 checksum:   1103ca8e6797dd2bf4a4f14dc058839c7b0036a4
+
+Image information:
+ Acquisition started:   Mon Apr 22 09:26:36 2024
+ Acquisition finished:  Mon Apr 22 09:26:36 2024
+ Segment list:
+  C:\Users\heehe\Desktop\UnRename\UnRename.ad1
+
+Image Verification Results:
+ Verification started:  Mon Apr 22 09:26:36 2024
+ Verification finished: Mon Apr 22 09:26:36 2024
+ MD5 checksum:    b351f07f8bb6a0a0457c50e586d9205a : verified
+ SHA1 checksum:   1103ca8e6797dd2bf4a4f14dc058839c7b0036a4 : verified

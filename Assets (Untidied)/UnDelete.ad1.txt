@@ -1,0 +1,30 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 1
+Evidence Number: FSEC-SS 01
+Unique Description: UnDelete Challenge
+Examiner: Chai Cheng Xun
+Notes: heeheeheehar
+
+--------------------------------------------------------------
+
+Information for C:\Users\heehe\Desktop\UnDelete\UnDelete.ad1:
+[Custom Content Sources]
+ \\.\PHYSICALDRIVE0:Basic data partition (3) [86146MB]:NONAME [NTFS]|[root]|$Recycle.Bin|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    63ab687aea0994db70ac9f5ad8985b0a
+ SHA1 checksum:   6b4ee2251e644cc0b8dd2e844f183a549838af49
+
+Image information:
+ Acquisition started:   Sun Apr 14 11:55:28 2024
+ Acquisition finished:  Sun Apr 14 11:55:28 2024
+ Segment list:
+  C:\Users\heehe\Desktop\UnDelete\UnDelete.ad1
+
+Image Verification Results:
+ Verification started:  Sun Apr 14 11:55:29 2024
+ Verification finished: Sun Apr 14 11:55:29 2024
+ MD5 checksum:    63ab687aea0994db70ac9f5ad8985b0a : verified
+ SHA1 checksum:   6b4ee2251e644cc0b8dd2e844f183a549838af49 : verified
